@@ -1,0 +1,1 @@
+"./aic31.obj" "./cache.obj" "./codecif.obj" "./edma.obj" "./edma1.obj" "./gpio.obj" "./i2c.obj" "./i2c1.obj" "./interrupt.obj" "./intvecs.obj" "./main.obj" "./mcasp.obj" "./mcasp1.obj" "./psc.obj" "../C6748.cmd" -llibc.a 
